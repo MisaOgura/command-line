@@ -1,0 +1,6 @@
+The "mv" command stands for move and is used to move files between directories.
+It take two parameters: first = the file to be moved, second = where the file is to be moved to
+
+ex: mv file ../file --> moving "file" to the parent directory (no name change)
+    mv file ../moved_file --> same as above but with a name change from "file" to "moved_file"
+    mv file newfile --> "file" stays where it is with a name change to "newfile"
