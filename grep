@@ -1,0 +1,4 @@
+The "grep" command searches for specified patterns in files.
+It take two parameters: first = what you want to search for, second = which files you want to search through
+
+ex.   grep search *.txt* --> searches for .txt files
