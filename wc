@@ -1,0 +1,8 @@
+The "wc" command stands for word count and gives information on word, line, character, and byte count of a chosen file.
+It takes one parameter which is the file you want information on.
+
+Useful switches
+  -c: byte count
+  -l: line count
+  -m: character count
+  -w: word count
